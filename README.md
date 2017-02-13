@@ -13,4 +13,5 @@ const addressNormalizer = require('spacetime-address-normalizer')
 
 const input = 'W. 25th'
 console.log(addressNormalizer(input))
+// Output: "West 25th Street"
 ```
